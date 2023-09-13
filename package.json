@@ -1,0 +1,24 @@
+{
+  "name": "ui-compiler",
+  "version": "1.0.0",
+  "description": "A micro compiler for introducing reactivity into the frontend. Using a lot of parts from the svelte compile",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fogha/UI-Compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fogha/UI-Compiler/issues"
+  },
+  "homepage": "https://github.com/fogha/UI-Compiler#readme",
+  "dependencies": {
+    "js-beautify": "^1.14.9",
+    "uuid": "^9.0.1"
+  }
+}
